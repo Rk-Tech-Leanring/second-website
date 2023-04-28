@@ -1,0 +1,26 @@
+.articl{
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 13px;
+}
+.articl img{
+    width: 100%;
+}
+
+input:focus{
+    font-size: 22px;
+    color: red;
+}
+.question{
+    text-align: justify;
+    margin-left: 500px;
+}
+
+a:visited{
+    color: brown;
+}
